@@ -19,7 +19,7 @@ Tenho 26 anos, sou apaixonada por arte em todas as suas formas e encontrei no De
          <img alt="Gmail" title="Meu E-mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
    </p>
 
----
+#
 
 ### 🧰 Linguagens e Ferramentas
 
@@ -35,23 +35,23 @@ Tenho 26 anos, sou apaixonada por arte em todas as suas formas e encontrei no De
 #
 
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 ![Natalia's GitHub Stats](https://github-readme-stats-phi-one-42.vercel.app/api?username=nataliamartinsux&show_icons=true&theme=tokyonight)
 
----
+#
 
-## 🔥 Streak Stats
+### 🔥 Streak Stats
 
 ![GitHub Streak](https://github-readme-stats-phi-one-42.vercel.app/api?username=nataliamartinsux&theme=tokyonight&show_icons=true&include_all_commits=true)
 
----
+#
 
-## 📚 Linguagens mais usadas
+### 📚 Linguagens mais usadas
 
 ![Top Langs](https://github-readme-stats-phi-one-42.vercel.app/api/top-langs/?username=nataliamartinsux&layout=compact&theme=tokyonight)
 
----
+
 
 
 #
