@@ -36,7 +36,7 @@ Tenho 26 anos, sou apaixonada por arte em todas as suas formas e encontrei no De
 
 ### 📊 Estatísticas
 
-![Natália's GitHub stats](https://github-readme-stats.vercel.app/api?username=nataliamartinsux&show_icons=true&theme=gruvbox)
+![Natália's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nataliamartinsux)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=nataliamartinsux&theme=gruvbox&border_radius=4.5)
 
