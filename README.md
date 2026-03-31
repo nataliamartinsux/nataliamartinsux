@@ -41,11 +41,6 @@ Tenho 26 anos, sou apaixonada por arte em todas as suas formas e encontrei no De
 
 #
 
-### 🔥 Streak Stats
-
-![GitHub Streak](https://github-readme-stats-phi-one-42.vercel.app/api?username=nataliamartinsux&theme=tokyonight&show_icons=true&include_all_commits=true)
-
-#
 
 ### 📚 Linguagens mais usadas
 
