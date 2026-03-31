@@ -1,6 +1,6 @@
 # 👩🏻‍🎤 Natália Martins
 
-**`Designer UX/UI`** **`Gestora de Automação`** **`Dev Front-end`**
+**`Designer UX/UI`** **`Dev Front-end`** **`Gestora de Automação`**
 
 Ei, mundo!
 Tenho 26 anos, sou apaixonada por arte em todas as suas formas e encontrei no Design UX a forma de unir arte, tecnologia e pessoas.
