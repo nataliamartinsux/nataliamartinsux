@@ -1,16 +1,14 @@
 # 👩🏻‍🎤 Natália Martins
 
-**`Designer UX/UI`** **`Dev Front-end`** **`Gestora de Automação`**
+**`Designer UX/UI`** **`Dev Front-end`** **`Gestora de Automação`** **`Apaixonada por arte`**
 
-Ei, mundo!
-Tenho 26 anos, sou apaixonada por arte em todas as suas formas e encontrei no Design UX a forma de unir arte, tecnologia e pessoas.
-<br>Sou uma Designer UX/UI, empreendo como Gestora de Automação e tenho habilidades de Desenvolvedora Front-end.
+👋🏼 Ei, mundo!
+<br><br>Tenho 27 anos, nascida na Ceilândia, no Distrito Federal do Brasil. 
+<br>Encontrei no Design UX a forma de unir tecnologia, pessoas e arte, sendo esta a minha maior paixão na vida.
+<br><br>🎯 Meu objetivo atual é ingressar na área de software musical, aprimorando a experiência do usuário que aprecia a música.
+<br><br>Além de ser uma Designer UX/UI, empreendo como Gestora de Automação e tenho habilidades de Desenvolvedora Front-end.
 
    <p align="left">
-     <a href="https://github.com/nataliamartinsux?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/nataliamartinsux?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-     <a href="https://github.com/nataliamartinsux?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/nataliamartinsux?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
      <a href="https://www.linkedin.com/in/nataliamartinsux">
          <img alt="LinkedIn" title="Vamos nos conectar?" src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
      <a href="https://www.behance.net/nataliamartinsux">
@@ -51,13 +49,14 @@ Tenho 26 anos, sou apaixonada por arte em todas as suas formas e encontrei no De
 
 #
 
-<details>
- <summary><h3>👩🏻‍💻 Minha jornada na Tecnologia</h3></summary>
-   Comecei a me interessar pelos computadores vendo meu irmão passar horas ouvindo músicas no Windows Media Player, hábito que se tornou meu, assim que pude sentar naquela cadeira e viajar com os desenhos das ondas sonoras.
-<br>Pensando bem, talvez tenha sido meu primeiro contato com a Experiência do Usuário em si. Ali, não apenas ouvíamos a música, mas sentíamos, acompanhando os movimentos no ritmo de cada música e pra mim, aquilo era mágico.
-<br><br>Sou muito apaixonada pela arte em todas as suas formas, mas a música tem algo de muito especial.
-<br>Ao longo de 2025, tive a oportunidade de me desenvolver como Dev em 2 cursos (IFB e Senac), onde participei de Projetos Integradores que demonstraram nosso aprendizado, o qual sigo aprimorando.
-<br>Meu objetivo é unir minhas paixões com o poder que a tecnologia tem de transformar pessoas.
-<br>Com essas oportunidades e minha bagagem ao longo da vida, percebi que a junção de tudo seria o Design UX e que quero trabalhar em projetos que envolvam música, arte, pessoas e tecnologia.
-<br><br>Vem comigo nessa jornada?
+ <h4>👩🏻‍💻 Minha jornada na Tecnologia</h4>
+   Comecei a me interessar pelos computadores vendo meu irmão passar horas ouvindo músicas no Windows Media Player, hábito que se tornou meu, assim que pude sentar naquela cadeira e viajar com os desenhos das ondas sonoras... 🎶
+<br>Pensando bem, talvez tenha sido meu primeiro contato com a Experiência do Usuário em si.
+<br>Ali, não apenas ouvíamos a música, mas sentíamos, acompanhando os movimentos no ritmo de cada música, aquilo era mágico!
+<br>Sou muito apaixonada pela arte em todas as suas formas, mas a música tem algo de muito especial para mim! 💜
+<br><br>Ao longo de 2025, tive a oportunidade de me desenvolver como Desenvolvedora Front-end em 2 cursos (IFB e Senac), onde participei de Projetos Integradores que demonstraram nosso aprendizado em HTML, CSS, React, Typescript, entre outros.
+<br><br>Meu objetivo é unir minhas paixões com o poder que a tecnologia tem de transformar vidas!
+<br><br>Com essas oportunidades e minha bagagem ao longo da vida, percebi que a junção de tudo seria o Design UX e que quero trabalhar em projetos que envolvam música, arte, pessoas e tecnologia. 🪩
+<br>Desde então, tenho aprimorado habilidades da área em diversos cursos, oficinas e eventos.
+<br><br>Vem comigo nessa jornada? 🚀
 </details>
